@@ -10,6 +10,7 @@
  ``` i) build 
      ii) run 
      iii) push```
+     
  ---
  
 ##To build and run an image for static-website just go for the following steps and commands:
