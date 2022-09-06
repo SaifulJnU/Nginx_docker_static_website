@@ -6,7 +6,7 @@
 1. Install docker in your Operating System
 2. Create an account at [DockerHub](https://hub.docker.com/)
 
-#From the above task we need to perform three basic action these are:
+## From the above task we need to perform three basic action these are:
  ``` 
      i) build 
      ii) run 
@@ -62,7 +62,7 @@ Step 07: Now it is time to see the website, to do so just copy and paste the fol
    0.0.0.0:8080/test 
 ```
 
-Boom! you see your website is running.
+Boom! now you can see your website is running.
 ---
 ---
 ## To publish image into dockerhub use the following command:
