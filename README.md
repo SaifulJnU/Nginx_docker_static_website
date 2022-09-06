@@ -1,8 +1,8 @@
 # Nginx_docker_static_website
-#Documentation:
-##Task: Build a docker image for static website then run and publish it to docker hub.
+
+## Task: Build a docker image for static website then run and publish it to docker hub.
 ---
-##Prerequisites:
+## Prerequisites:
 1. Install docker in your Operating System
 2. Create an account at [DockerHub](https://hub.docker.com/)
 
