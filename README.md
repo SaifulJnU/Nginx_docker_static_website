@@ -18,7 +18,7 @@
 ## To build and run an image for static-website just go for the following steps and commands:
 
 Step 01: Make a folder  (for example: DockerLab)
-Step 02: In this for create two file say one is index.html another one is Dockerfile
+Step 02: In this folder for creating two file say one is index.html another one is Dockerfile
 Step 03: In the index.html file just put your own html code for now you can simply copy and paste the follwing code:
 ```  
     <!DOCTYPE html>
@@ -73,7 +73,7 @@ At first you need to login into docker hub with your user_name and password.
 After that publish your image by the following command:
 
 ```Syntax: sudo docker push user_name_of_dockerHub/your_image_name
-   sudo docker push saiful321/demodockerlab
+   (for example: sudo docker push saiful321/demodockerlab)
 ```
 well done! now go to the dockerhub website and refresh it as a result you will see your published image.
 ---
