@@ -59,7 +59,7 @@ Step 06:(To run the image)
 
 Step 07: Now it is time to see the website, to do so just copy and paste the follwing line into the browser search bar: 
 ```
-   0.0.0.0:8080/test 
+   0.0.0.0:8080/test/
 ```
 
 Boom! now you can see your website is running.
